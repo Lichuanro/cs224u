@@ -55,6 +55,7 @@ docs/_build/
 target/
 
 .ipynb_checkpoints*
+.vscode/*
 
 
 # Data
